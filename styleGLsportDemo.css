@@ -1,5 +1,4 @@
-/* When use class name write "." 
-& use by id write "#" */
+
 
 body {
     font-family: 'PT Sans', sans-serif;
@@ -17,7 +16,7 @@ a {
 #showcase {
     margin: 0;
     padding: 0;
-    background: url('assets/sport_bg_basketball.jpg') no-repeat center/cover;
+    background: url('assets/webAssets/sport_bg_basketball.jpg') no-repeat center/cover;
     width: 100%;
     /* vh == viewport height */
     height: 100vh;
